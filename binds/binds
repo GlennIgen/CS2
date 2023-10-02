@@ -1,0 +1,6 @@
+bind "pgup" "noclip"
+bind "pgdn" "sv_rethrow_last_grenade"
+bind "home" "exec prac_with_impacts.cfg" //check configs
+bind "end" "exec prac_no_impacts.cfg" //check configs
+bind "ins" "bot_add;bot_place;bot_stop 1"
+bind "del" "bot_kick"
