@@ -1,2 +1,2 @@
-# cs2
+# CS2
 Configs for CS2
