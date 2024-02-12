@@ -1,0 +1,1 @@
+In CS console type "find cl_crosshair" to display all crosshair settings
